@@ -37,7 +37,7 @@ function App() {
               type="text"
               placeholder="silahkan bertanya ?"
               onChange={(e) => setAkal(e.target.value)}
-              className="input w-full max-w-xl m-3 text-black"
+              className="input w-full max-w-xl m-3 text-white"
             />
           </div>
           <div className="justify-center items-center flex">
