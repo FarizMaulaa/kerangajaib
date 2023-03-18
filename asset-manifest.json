@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kerangajaib/static/css/main.51f7b011.css",
+    "main.js": "/kerangajaib/static/js/main.24cb8722.js",
+    "static/js/787.e48cd7af.chunk.js": "/kerangajaib/static/js/787.e48cd7af.chunk.js",
+    "static/media/R.jpg": "/kerangajaib/static/media/R.23938a9ec789e6f44edd.jpg",
+    "index.html": "/kerangajaib/index.html",
+    "main.51f7b011.css.map": "/kerangajaib/static/css/main.51f7b011.css.map",
+    "main.24cb8722.js.map": "/kerangajaib/static/js/main.24cb8722.js.map",
+    "787.e48cd7af.chunk.js.map": "/kerangajaib/static/js/787.e48cd7af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f7b011.css",
+    "static/js/main.24cb8722.js"
+  ]
+}
